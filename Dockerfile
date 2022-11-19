@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="2eedb22c-fe87-4173-8a36-ff2986be1ba4"
-ARG CADDYIndexPage="https://www.ruleta77slovakia.com"
+ARG CADDYIndexPage="https://github.com/happyevero/Html/raw/main/L-html.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
